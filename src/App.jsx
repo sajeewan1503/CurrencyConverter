@@ -73,6 +73,7 @@ function App() {
               <option value="INR">INR - Indian Rupee</option>
               <option value="BRL">BRL - Brazilian Real</option>
               <option value="ZAR">ZAR - South Africa Rand</option>
+              <option value="LKR">LKR - Sri Lanka Rupees</option>
             </select>
           </div>
           <div className="input-container">
@@ -92,6 +93,7 @@ function App() {
               <option value="INR">INR - Indian Rupee</option>
               <option value="BRL">BRL - Brazilian Real</option>
               <option value="ZAR">ZAR - South Africa Rand</option>
+              <option value="LKR">LKR - Sri Lanka Rupees</option>
             </select>
           </div>
           <div className="result">
